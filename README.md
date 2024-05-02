@@ -15,10 +15,10 @@
 
 <h2>Image Acquisition </h2>
 <h4>Input<h4>
-<a href="https://github.com/SHARANADHITHYAS/Real-Time-Object-Size-Measurement/blob/main/Image%20Acquisition%20(input).png?raw=true"></a>
+<a src="Image Acquisition (input).png"></a>
 
 <h4>Output</h4>
-<a href="https://github.com/SHARANADHITHYAS/Real-Time-Object-Size-Measurement/blob/main/Final%20Output.png"></a>
+<a src="Final Output.png"></a>
 
 <h2>Conclusion</h2>
 <p>
